@@ -47,7 +47,9 @@ method Get- http://localhost:3000/api/v2/seed
 # Production Build
 
 1.- Crear el archivo `.env.prod`
+
 2.- llenar las variables de entorno de prod
+
 3.- crear la nueva imagen
 
 ```
